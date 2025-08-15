@@ -10,11 +10,5 @@
 
 ---
 
-### 📊 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorcavalcant1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcavalcant1&layout=compact&theme=tokyonight)
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
 
