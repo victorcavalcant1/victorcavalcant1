@@ -12,3 +12,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
 
+## 🌐 Connect with me
+[💼 LinkedIn](https://www.linkedin.com/in/victor-hugo-cavalcanti-219a18268)  
+✉️ [Email](mailto:victorcava2004@gmail.com)
