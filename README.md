@@ -14,4 +14,4 @@
 
 ## 🌐 Connect with me
 [💼 LinkedIn](https://www.linkedin.com/in/victor-hugo-cavalcanti-219a18268)  
-✉️ [Email](mailto:victorcava2004@gmail.com)
+[📧 Email](mailto:victorcava2004@gmail.com)
